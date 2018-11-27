@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 name: mrghort
-markdown: kramdown
-
+collections:
+  posts:
+    permalink: "/news/:year/:month/:day/:title/"
+    output: true
