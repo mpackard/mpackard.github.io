@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 name: mrghort
-url: https://mpackard.github.io
+url: https://mpackard.github.io/blog
 permalink: /blog/:year/:month/:day/:title/
-baseurl: "" # the subpath of your site, e.g. /blog/
