@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+name: mrghort
+collections:
+  posts:
+    permalink: "/news/:year/:month/:day/:title/"
+    output: true
