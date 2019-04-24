@@ -3,25 +3,29 @@ layout: default
 title: Mr Ghort The Blog
 ---
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-    {% assign content = post.content %}
-      <article>
-        {% include article.html %}
-      </article>
+<div id="blog-archives">
+  {% for post in site.posts reverse %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% unless year == this_year %}
+    {% assign year = this_year %}
+    <h2>{{ year }}</h2>
+  {% endunless %}
+
+  <article>
+    <div class="content-container">
+      <a href="{{ root_url }}{{ post.url }}">
+        <b>{{post.title}}</b> -
+        {% assign author_key = post.author %}
+        {% for key in author_key %}
+          {% assign author = site.authors[key] %}
+          {% if author %}
+              <span class="byline author vcard"><a href ="/author/{{key}}">{{ author.name }}<a/></span>
+          {% endif %}
+        {% endfor %}
+      </a>
+    </div>
+  </article>
+
   {% endfor %}
-
-  <div class="pagination">
-    <a href="biglist.html">Big List</a>
-
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Older</a>
-    {% endif %}
-  </div>
 </div>
+<div style="clear:both;"></div>
