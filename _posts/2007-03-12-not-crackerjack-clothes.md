@@ -4,8 +4,8 @@ title: not crackerjack clothes
 date: 2007-03-12T11:00:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=113
-permalink: /?p=113
+#guid: http://aquamap.net/blog/?p=113
+#permalink: /?p=113
 categories:
   - Uncategorized
 ---

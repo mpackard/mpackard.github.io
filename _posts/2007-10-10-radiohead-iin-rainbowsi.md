@@ -4,8 +4,8 @@ title: 'Radiohead <i>In Rainbows</i>'
 date: 2007-10-10T12:24:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=149
-permalink: /?p=149
+#guid: http://aquamap.net/blog/?p=149
+#permalink: /?p=149
 categories:
   - Uncategorized
 ---

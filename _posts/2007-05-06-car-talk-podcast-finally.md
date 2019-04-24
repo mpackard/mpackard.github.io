@@ -4,8 +4,8 @@ title: car talk podcast finally
 date: 2007-05-06T11:06:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=125
-permalink: /?p=125
+#guid: http://aquamap.net/blog/?p=125
+#permalink: /?p=125
 categories:
   - Uncategorized
 ---

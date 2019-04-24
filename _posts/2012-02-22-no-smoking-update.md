@@ -4,8 +4,8 @@ title: No Smoking Update
 date: 2012-02-22T14:11:06+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=324
-permalink: /?p=324
+#guid: http://aquamap.net/blog/?p=324
+#permalink: /?p=324
 categories:
   - Uncategorized
 ---

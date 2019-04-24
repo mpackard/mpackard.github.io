@@ -4,8 +4,8 @@ title: Sting of the Bergman-orpion
 date: 2007-01-07T14:41:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=103
-permalink: /?p=103
+#guid: http://aquamap.net/blog/?p=103
+#permalink: /?p=103
 categories:
   - Uncategorized
 ---

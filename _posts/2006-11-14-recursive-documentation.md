@@ -4,8 +4,8 @@ title: recursive documentation
 date: 2006-11-14T12:53:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=97
-permalink: /?p=97
+#guid: http://aquamap.net/blog/?p=97
+#permalink: /?p=97
 categories:
   - Uncategorized
 ---

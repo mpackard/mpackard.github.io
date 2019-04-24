@@ -4,8 +4,8 @@ title: Dead Air by Pressurehed
 date: 2008-03-09T22:50:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=159
-permalink: /?p=159
+#guid: http://aquamap.net/blog/?p=159
+#permalink: /?p=159
 categories:
   - Uncategorized
 ---

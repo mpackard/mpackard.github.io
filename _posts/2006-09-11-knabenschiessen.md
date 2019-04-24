@@ -4,8 +4,8 @@ title: knabenschiessen
 date: 2006-09-11T16:10:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=89
-permalink: /?p=89
+#guid: http://aquamap.net/blog/?p=89
+#permalink: /?p=89
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: goin back to cali
 date: 2007-07-01T15:21:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=131
-permalink: /?p=131
+#guid: http://aquamap.net/blog/?p=131
+#permalink: /?p=131
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: not like this
 date: 2007-02-26T15:01:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=110
-permalink: /?p=110
+#guid: http://aquamap.net/blog/?p=110
+#permalink: /?p=110
 categories:
   - Uncategorized
 ---

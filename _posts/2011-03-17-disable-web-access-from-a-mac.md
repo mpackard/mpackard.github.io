@@ -4,8 +4,8 @@ title: disable web access from a mac
 date: 2011-03-17T14:57:59+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=300
-permalink: /?p=300
+#guid: http://aquamap.net/blog/?p=300
+#permalink: /?p=300
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: Born To Run (book)
 date: 2009-09-01T09:39:25+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=197
-permalink: /?p=197
+#guid: http://aquamap.net/blog/?p=197
+#permalink: /?p=197
 categories:
   - Uncategorized
 ---

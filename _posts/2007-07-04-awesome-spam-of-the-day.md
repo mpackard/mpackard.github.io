@@ -4,8 +4,8 @@ title: awesome spam of the day
 date: 2007-07-04T05:45:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=134
-permalink: /?p=134
+#guid: http://aquamap.net/blog/?p=134
+#permalink: /?p=134
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: New Orleans
 date: 2011-06-06T07:40:50+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=305
-permalink: /?p=305
+#guid: http://aquamap.net/blog/?p=305
+#permalink: /?p=305
 categories:
   - Uncategorized
 ---

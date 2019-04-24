@@ -4,8 +4,8 @@ title: The Compelling Case for the Cable Car
 date: 2010-02-18T08:51:02+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=240
-permalink: /?p=240
+#guid: http://aquamap.net/blog/?p=240
+#permalink: /?p=240
 categories:
   - Uncategorized
 ---

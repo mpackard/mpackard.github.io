@@ -4,8 +4,8 @@ title: mensa cards in their purses and chips on their shoulders
 date: 2006-02-08T12:24:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=20
-permalink: /?p=20
+#guid: http://aquamap.net/blog/?p=20
+#permalink: /?p=20
 categories:
   - Uncategorized
 ---

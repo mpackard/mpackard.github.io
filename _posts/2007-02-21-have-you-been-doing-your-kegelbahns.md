@@ -4,8 +4,8 @@ title: have you been doing your kegelbahns?
 date: 2007-02-21T17:26:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=109
-permalink: /?p=109
+#guid: http://aquamap.net/blog/?p=109
+#permalink: /?p=109
 categories:
   - Uncategorized
 ---

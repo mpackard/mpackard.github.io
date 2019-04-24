@@ -4,8 +4,8 @@ title: phantom of the pamplemousse
 date: 2006-08-21T21:22:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=86
-permalink: /?p=86
+#guid: http://aquamap.net/blog/?p=86
+#permalink: /?p=86
 categories:
   - Uncategorized
 ---

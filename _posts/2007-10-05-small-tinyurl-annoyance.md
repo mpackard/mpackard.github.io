@@ -4,8 +4,8 @@ title: small tinyurl annoyance
 date: 2007-10-05T08:32:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=146
-permalink: /?p=146
+#guid: http://aquamap.net/blog/?p=146
+#permalink: /?p=146
 categories:
   - Uncategorized
 ---

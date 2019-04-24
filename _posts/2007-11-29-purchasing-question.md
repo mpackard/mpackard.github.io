@@ -4,8 +4,8 @@ title: Purchasing Question
 date: 2007-11-29T14:34:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=154
-permalink: /?p=154
+#guid: http://aquamap.net/blog/?p=154
+#permalink: /?p=154
 categories:
   - Uncategorized
 ---

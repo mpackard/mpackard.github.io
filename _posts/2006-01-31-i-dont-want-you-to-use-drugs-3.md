@@ -4,8 +4,8 @@ title: 'i don&#8217;t want you to use drugs'
 date: 2006-01-31T10:23:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=74
-permalink: /?p=74
+#guid: http://aquamap.net/blog/?p=74
+#permalink: /?p=74
 categories:
   - Uncategorized
 ---

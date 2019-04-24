@@ -4,8 +4,8 @@ title: nice work jam boy
 date: 2007-04-07T12:41:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=118
-permalink: /?p=118
+#guid: http://aquamap.net/blog/?p=118
+#permalink: /?p=118
 categories:
   - Uncategorized
 ---

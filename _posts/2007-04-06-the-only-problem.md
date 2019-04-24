@@ -4,8 +4,8 @@ title: the only problem
 date: 2007-04-06T14:49:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=116
-permalink: /?p=116
+#guid: http://aquamap.net/blog/?p=116
+#permalink: /?p=116
 categories:
   - Uncategorized
 ---

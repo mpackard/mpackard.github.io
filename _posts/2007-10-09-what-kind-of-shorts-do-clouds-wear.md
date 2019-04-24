@@ -4,8 +4,8 @@ title: What kind of shorts do clouds wear?
 date: 2007-10-09T21:09:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=148
-permalink: /?p=148
+#guid: http://aquamap.net/blog/?p=148
+#permalink: /?p=148
 categories:
   - Uncategorized
 ---

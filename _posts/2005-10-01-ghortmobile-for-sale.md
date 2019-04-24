@@ -4,8 +4,8 @@ title: Ghortmobile for sale!
 date: 2005-10-01T11:55:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=58
-permalink: /?p=58
+#guid: http://aquamap.net/blog/?p=58
+#permalink: /?p=58
 categories:
   - Uncategorized
 ---

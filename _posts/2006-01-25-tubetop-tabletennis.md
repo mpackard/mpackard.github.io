@@ -4,8 +4,8 @@ title: tubetop tabletennis
 date: 2006-01-25T10:41:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=15
-permalink: /?p=15
+#guid: http://aquamap.net/blog/?p=15
+#permalink: /?p=15
 categories:
   - Uncategorized
 ---

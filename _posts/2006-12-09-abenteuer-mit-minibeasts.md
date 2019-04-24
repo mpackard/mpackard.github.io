@@ -4,8 +4,8 @@ title: Abenteuer mit Minibeasts
 date: 2006-12-09T23:51:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=100
-permalink: /?p=100
+#guid: http://aquamap.net/blog/?p=100
+#permalink: /?p=100
 categories:
   - Uncategorized
 ---

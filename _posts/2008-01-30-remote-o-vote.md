@@ -4,8 +4,8 @@ title: remote-o-vote
 date: 2008-01-30T17:59:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=157
-permalink: /?p=157
+#guid: http://aquamap.net/blog/?p=157
+#permalink: /?p=157
 categories:
   - Uncategorized
 ---

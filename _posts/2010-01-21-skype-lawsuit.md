@@ -4,8 +4,8 @@ title: skype lawsuit
 date: 2010-01-21T13:40:24+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=209
-permalink: /?p=209
+#guid: http://aquamap.net/blog/?p=209
+#permalink: /?p=209
 categories:
   - Uncategorized
 ---

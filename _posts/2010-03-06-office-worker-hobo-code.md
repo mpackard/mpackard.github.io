@@ -4,8 +4,8 @@ title: Office Worker Hobo Code
 date: 2010-03-06T08:58:41+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=246
-permalink: /?p=246
+#guid: http://aquamap.net/blog/?p=246
+#permalink: /?p=246
 categories:
   - Uncategorized
 ---

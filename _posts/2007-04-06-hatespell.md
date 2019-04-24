@@ -4,8 +4,8 @@ title: Hatespell
 date: 2007-04-06T13:43:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=115
-permalink: /?p=115
+#guid: http://aquamap.net/blog/?p=115
+#permalink: /?p=115
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: Photos date bug?
 date: 2015-04-22T07:48:15+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=452
-permalink: /?p=452
+#guid: http://aquamap.net/blog/?p=452
+#permalink: /?p=452
 categories:
   - Uncategorized
 ---

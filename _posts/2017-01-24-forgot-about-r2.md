@@ -4,8 +4,8 @@ title: Forgot About R2
 date: 2017-01-24T16:10:48+00:00
 author: mpackard
 layout: post
-guid: http://mrghort.com/blog/?p=461
-permalink: /?p=461
+#guid: http://mrghort.com/blog/?p=461
+#permalink: /?p=461
 categories:
   - Uncategorized
 ---

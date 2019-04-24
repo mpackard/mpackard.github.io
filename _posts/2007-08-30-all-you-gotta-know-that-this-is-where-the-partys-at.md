@@ -4,8 +4,8 @@ title: 'all you gotta know that this is where the party&#8217;s at'
 date: 2007-08-30T18:41:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=142
-permalink: /?p=142
+#guid: http://aquamap.net/blog/?p=142
+#permalink: /?p=142
 categories:
   - Uncategorized
 ---

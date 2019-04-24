@@ -4,8 +4,8 @@ title: Review of the Nintendo Wii
 date: 2007-01-14T14:15:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=105
-permalink: /?p=105
+#guid: http://aquamap.net/blog/?p=105
+#permalink: /?p=105
 categories:
   - Uncategorized
 ---

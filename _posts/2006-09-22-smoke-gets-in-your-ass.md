@@ -4,8 +4,8 @@ title: smoke gets in your ass
 date: 2006-09-22T00:04:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=94
-permalink: /?p=94
+#guid: http://aquamap.net/blog/?p=94
+#permalink: /?p=94
 categories:
   - Uncategorized
 ---

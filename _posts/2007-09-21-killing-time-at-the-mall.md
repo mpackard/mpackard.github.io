@@ -4,8 +4,8 @@ title: 'killing-time&#8230; at the mall!'
 date: 2007-09-21T08:18:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=145
-permalink: /?p=145
+#guid: http://aquamap.net/blog/?p=145
+#permalink: /?p=145
 categories:
   - Uncategorized
 ---

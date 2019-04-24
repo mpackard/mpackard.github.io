@@ -4,8 +4,8 @@ title: 'D&#038;D Alignments explained'
 date: 2010-03-10T15:02:09+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=266
-permalink: /?p=266
+#guid: http://aquamap.net/blog/?p=266
+#permalink: /?p=266
 categories:
   - Uncategorized
 ---

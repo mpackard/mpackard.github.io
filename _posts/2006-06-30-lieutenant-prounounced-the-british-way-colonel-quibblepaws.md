@@ -4,8 +4,8 @@ title: Lieutenant (prounounced the British way) Colonel Quibblepaws
 date: 2006-06-30T09:32:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=70
-permalink: /?p=70
+#guid: http://aquamap.net/blog/?p=70
+#permalink: /?p=70
 categories:
   - Uncategorized
 ---

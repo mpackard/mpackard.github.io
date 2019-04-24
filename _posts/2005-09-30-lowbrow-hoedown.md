@@ -4,8 +4,8 @@ title: lowbrow hoedown
 date: 2005-09-30T08:22:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=57
-permalink: /?p=57
+#guid: http://aquamap.net/blog/?p=57
+#permalink: /?p=57
 categories:
   - Uncategorized
 ---

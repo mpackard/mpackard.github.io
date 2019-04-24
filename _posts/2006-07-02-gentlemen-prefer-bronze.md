@@ -4,8 +4,8 @@ title: gentlemen prefer bronze
 date: 2006-07-02T23:11:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=77
-permalink: /?p=77
+#guid: http://aquamap.net/blog/?p=77
+#permalink: /?p=77
 categories:
   - Uncategorized
 ---

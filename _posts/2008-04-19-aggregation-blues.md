@@ -4,8 +4,8 @@ title: aggregation blues
 date: 2008-04-19T10:49:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=162
-permalink: /?p=162
+#guid: http://aquamap.net/blog/?p=162
+#permalink: /?p=162
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: flatline gluhwein
 date: 2006-01-27T11:42:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=16
-permalink: /?p=16
+#guid: http://aquamap.net/blog/?p=16
+#permalink: /?p=16
 categories:
   - Uncategorized
 ---

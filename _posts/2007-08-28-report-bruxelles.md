@@ -4,8 +4,8 @@ title: 'report: bruxelles'
 date: 2007-08-28T08:50:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=141
-permalink: /?p=141
+#guid: http://aquamap.net/blog/?p=141
+#permalink: /?p=141
 categories:
   - Uncategorized
 ---

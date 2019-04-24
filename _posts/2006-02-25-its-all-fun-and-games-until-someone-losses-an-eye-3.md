@@ -4,8 +4,8 @@ title: 'it&#8217;s all fun and games until someone losses an eye'
 date: 2006-02-25T11:13:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=75
-permalink: /?p=75
+#guid: http://aquamap.net/blog/?p=75
+#permalink: /?p=75
 categories:
   - Uncategorized
 ---

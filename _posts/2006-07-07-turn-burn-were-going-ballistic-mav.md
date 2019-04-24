@@ -4,8 +4,8 @@ title: 'turn &#038; burn (we&#8217;re going ballistic mav)'
 date: 2006-07-07T08:46:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=79
-permalink: /?p=79
+#guid: http://aquamap.net/blog/?p=79
+#permalink: /?p=79
 categories:
   - Uncategorized
 ---

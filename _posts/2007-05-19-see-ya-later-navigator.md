@@ -4,8 +4,8 @@ title: See ya later, Navigator!
 date: 2007-05-19T13:39:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=127
-permalink: /?p=127
+#guid: http://aquamap.net/blog/?p=127
+#permalink: /?p=127
 categories:
   - Uncategorized
 ---

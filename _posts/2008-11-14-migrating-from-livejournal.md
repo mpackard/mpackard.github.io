@@ -4,8 +4,8 @@ title: migrating from livejournal
 date: 2008-11-14T15:49:48+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=188
-permalink: /?p=188
+#guid: http://aquamap.net/blog/?p=188
+#permalink: /?p=188
 categories:
   - Uncategorized
 ---

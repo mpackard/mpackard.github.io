@@ -4,8 +4,8 @@ title: plane tix aquired
 date: 2008-07-25T10:37:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=165
-permalink: /?p=166
+#guid: http://aquamap.net/blog/?p=165
+#permalink: /?p=166
 categories:
   - Uncategorized
 ---

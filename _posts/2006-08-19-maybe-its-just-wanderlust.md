@@ -4,8 +4,8 @@ title: 'maybe it&#8217;s just wanderlust'
 date: 2006-08-19T11:17:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=85
-permalink: /?p=85
+#guid: http://aquamap.net/blog/?p=85
+#permalink: /?p=85
 categories:
   - Uncategorized
 ---

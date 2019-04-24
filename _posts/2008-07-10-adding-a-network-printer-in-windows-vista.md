@@ -4,8 +4,8 @@ title: Adding a network printer in windows vista
 date: 2008-07-10T16:43:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=25
-permalink: /?p=25
+#guid: http://aquamap.net/blog/?p=25
+#permalink: /?p=25
 categories:
   - Uncategorized
 ---

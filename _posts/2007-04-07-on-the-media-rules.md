@@ -4,8 +4,8 @@ title: on the media rules
 date: 2007-04-07T21:21:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=119
-permalink: /?p=119
+#guid: http://aquamap.net/blog/?p=119
+#permalink: /?p=119
 categories:
   - Uncategorized
 ---

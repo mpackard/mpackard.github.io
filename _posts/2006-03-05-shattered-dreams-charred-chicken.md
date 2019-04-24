@@ -4,8 +4,8 @@ title: shattered dreams, charred chicken
 date: 2006-03-05T14:29:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=67
-permalink: /?p=67
+#guid: http://aquamap.net/blog/?p=67
+#permalink: /?p=67
 categories:
   - Uncategorized
 ---

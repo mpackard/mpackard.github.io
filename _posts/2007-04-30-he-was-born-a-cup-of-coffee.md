@@ -4,8 +4,8 @@ title: he was born a cup of coffee
 date: 2007-04-30T09:13:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=123
-permalink: /?p=123
+#guid: http://aquamap.net/blog/?p=123
+#permalink: /?p=123
 categories:
   - Uncategorized
 ---

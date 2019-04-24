@@ -4,8 +4,8 @@ title: apple ringtones
 date: 2007-09-14T16:16:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=144
-permalink: /?p=144
+#guid: http://aquamap.net/blog/?p=144
+#permalink: /?p=144
 categories:
   - Uncategorized
 ---

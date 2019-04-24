@@ -4,8 +4,8 @@ title: ireland tibbits
 date: 2007-01-07T01:19:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=102
-permalink: /?p=102
+#guid: http://aquamap.net/blog/?p=102
+#permalink: /?p=102
 categories:
   - Uncategorized
 ---

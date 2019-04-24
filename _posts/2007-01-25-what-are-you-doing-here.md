@@ -4,8 +4,8 @@ title: what are you doing here?
 date: 2007-01-25T18:48:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=107
-permalink: /?p=107
+#guid: http://aquamap.net/blog/?p=107
+#permalink: /?p=107
 categories:
   - Uncategorized
 ---

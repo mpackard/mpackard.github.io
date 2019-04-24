@@ -4,8 +4,8 @@ title: i should be working on my presentation
 date: 2006-07-10T00:06:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=81
-permalink: /?p=81
+#guid: http://aquamap.net/blog/?p=81
+#permalink: /?p=81
 categories:
   - Uncategorized
 ---

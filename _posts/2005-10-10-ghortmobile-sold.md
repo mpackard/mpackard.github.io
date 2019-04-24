@@ -4,8 +4,8 @@ title: ghortmobile sold!
 date: 2005-10-10T09:50:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=61
-permalink: /?p=61
+#guid: http://aquamap.net/blog/?p=61
+#permalink: /?p=61
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: Java Job in Zurich
 date: 2007-11-28T17:52:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=153
-permalink: /?p=153
+#guid: http://aquamap.net/blog/?p=153
+#permalink: /?p=153
 categories:
   - Uncategorized
 ---

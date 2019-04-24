@@ -4,8 +4,8 @@ title: accordion to a kind of inhabitant of zurich
 date: 2006-09-18T09:35:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=93
-permalink: /?p=93
+#guid: http://aquamap.net/blog/?p=93
+#permalink: /?p=93
 categories:
   - Uncategorized
 ---

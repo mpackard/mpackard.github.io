@@ -4,8 +4,8 @@ title: CHOOSER 4 LIFE SON
 date: 2007-08-17T10:37:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=140
-permalink: /?p=140
+#guid: http://aquamap.net/blog/?p=140
+#permalink: /?p=140
 categories:
   - Uncategorized
 ---

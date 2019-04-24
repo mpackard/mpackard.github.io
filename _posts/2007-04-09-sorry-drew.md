@@ -4,8 +4,8 @@ title: sorry drew
 date: 2007-04-09T22:14:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=120
-permalink: /?p=120
+#guid: http://aquamap.net/blog/?p=120
+#permalink: /?p=120
 categories:
   - Uncategorized
 ---

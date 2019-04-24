@@ -4,8 +4,8 @@ title: oracle training, day 2
 date: 2006-09-06T20:58:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=88
-permalink: /?p=88
+#guid: http://aquamap.net/blog/?p=88
+#permalink: /?p=88
 categories:
   - Uncategorized
 ---

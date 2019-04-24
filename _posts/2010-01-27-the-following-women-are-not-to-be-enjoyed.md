@@ -4,8 +4,8 @@ title: 'The following women are not to be enjoyed:'
 date: 2010-01-27T16:18:21+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=215
-permalink: /?p=215
+#guid: http://aquamap.net/blog/?p=215
+#permalink: /?p=215
 categories:
   - Uncategorized
 ---

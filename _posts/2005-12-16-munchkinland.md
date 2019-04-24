@@ -4,8 +4,8 @@ title: munchkinland
 date: 2005-12-16T18:52:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=11
-permalink: /?p=11
+#guid: http://aquamap.net/blog/?p=11
+#permalink: /?p=11
 categories:
   - Uncategorized
 ---

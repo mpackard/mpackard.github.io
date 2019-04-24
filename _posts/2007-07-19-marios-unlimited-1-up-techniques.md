@@ -4,8 +4,8 @@ title: 'mario&#8217;s unlimited 1-up techniques'
 date: 2007-07-19T08:33:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=136
-permalink: /?p=136
+#guid: http://aquamap.net/blog/?p=136
+#permalink: /?p=136
 categories:
   - Uncategorized
 ---

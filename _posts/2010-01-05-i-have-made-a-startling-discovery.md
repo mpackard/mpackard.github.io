@@ -4,8 +4,8 @@ title: i have made a startling discovery
 date: 2010-01-05T17:48:21+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=205
-permalink: /?p=205
+#guid: http://aquamap.net/blog/?p=205
+#permalink: /?p=205
 categories:
   - Uncategorized
 ---

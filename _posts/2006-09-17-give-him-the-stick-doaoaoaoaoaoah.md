@@ -4,8 +4,8 @@ title: give him the stick DOAOAOAOAOAOAH
 date: 2006-09-17T20:43:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=92
-permalink: /?p=92
+#guid: http://aquamap.net/blog/?p=92
+#permalink: /?p=92
 categories:
   - Uncategorized
 ---

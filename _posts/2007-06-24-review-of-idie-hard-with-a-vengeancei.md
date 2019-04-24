@@ -4,8 +4,8 @@ title: 'review of <i>Die Hard: With A Vengeance</i>'
 date: 2007-06-24T22:49:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=130
-permalink: /?p=130
+#guid: http://aquamap.net/blog/?p=130
+#permalink: /?p=130
 categories:
   - Uncategorized
 ---

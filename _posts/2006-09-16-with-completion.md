@@ -4,8 +4,8 @@ title: With Completion
 date: 2006-09-16T23:45:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=91
-permalink: /?p=91
+#guid: http://aquamap.net/blog/?p=91
+#permalink: /?p=91
 categories:
   - Uncategorized
 ---

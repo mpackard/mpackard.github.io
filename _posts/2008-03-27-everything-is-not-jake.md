@@ -4,8 +4,8 @@ title: everything is not jake
 date: 2008-03-27T16:27:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=160
-permalink: /?p=160
+#guid: http://aquamap.net/blog/?p=160
+#permalink: /?p=160
 categories:
   - Uncategorized
 ---

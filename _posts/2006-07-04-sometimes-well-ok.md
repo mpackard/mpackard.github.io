@@ -4,8 +4,8 @@ title: sometimes, well, ok
 date: 2006-07-04T10:26:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=78
-permalink: /?p=78
+#guid: http://aquamap.net/blog/?p=78
+#permalink: /?p=78
 categories:
   - Uncategorized
 ---

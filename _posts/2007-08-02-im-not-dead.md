@@ -4,8 +4,8 @@ title: 'i&#8217;m not dead'
 date: 2007-08-02T09:28:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=137
-permalink: /?p=137
+#guid: http://aquamap.net/blog/?p=137
+#permalink: /?p=137
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: smoking pole to keep warm
 date: 2006-04-02T14:13:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=68
-permalink: /?p=68
+#guid: http://aquamap.net/blog/?p=68
+#permalink: /?p=68
 categories:
   - Uncategorized
 ---

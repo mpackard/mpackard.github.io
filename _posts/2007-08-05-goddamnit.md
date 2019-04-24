@@ -4,8 +4,8 @@ title: goddamnit
 date: 2007-08-05T01:11:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=138
-permalink: /?p=138
+#guid: http://aquamap.net/blog/?p=138
+#permalink: /?p=138
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: i heart wiki-fucking-pedia
 date: 2006-02-01T22:10:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=19
-permalink: /?p=19
+#guid: http://aquamap.net/blog/?p=19
+#permalink: /?p=19
 categories:
   - Uncategorized
 ---

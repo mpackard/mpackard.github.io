@@ -4,8 +4,8 @@ title: 'Definition: Prince Paul'
 date: 2006-09-04T16:38:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=87
-permalink: /?p=87
+#guid: http://aquamap.net/blog/?p=87
+#permalink: /?p=87
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: fruit by the cubit
 date: 2007-04-10T19:14:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=121
-permalink: /?p=121
+#guid: http://aquamap.net/blog/?p=121
+#permalink: /?p=121
 categories:
   - Uncategorized
 ---

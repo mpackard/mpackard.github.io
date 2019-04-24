@@ -4,8 +4,8 @@ title: hammer time
 date: 2006-07-07T16:59:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=80
-permalink: /?p=80
+#guid: http://aquamap.net/blog/?p=80
+#permalink: /?p=80
 categories:
   - Uncategorized
 ---

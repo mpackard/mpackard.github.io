@@ -4,8 +4,8 @@ title: computers are bunk
 date: 2008-05-26T12:08:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=163
-permalink: /?p=163
+#guid: http://aquamap.net/blog/?p=163
+#permalink: /?p=163
 categories:
   - Uncategorized
 ---

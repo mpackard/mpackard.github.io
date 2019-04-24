@@ -4,8 +4,8 @@ title: up yours lady
 date: 2007-10-30T19:50:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=150
-permalink: /?p=150
+#guid: http://aquamap.net/blog/?p=150
+#permalink: /?p=150
 categories:
   - Uncategorized
 ---

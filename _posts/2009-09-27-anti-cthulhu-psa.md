@@ -4,8 +4,8 @@ title: Anti-Cthulhu PSA
 date: 2009-09-27T04:04:23+00:00
 author: mpackard
 layout: post
-guid: http://www.aquamap.net/blog/?p=198
-permalink: /?p=198
+#guid: http://www.aquamap.net/blog/?p=198
+#permalink: /?p=198
 categories:
   - Uncategorized
 ---

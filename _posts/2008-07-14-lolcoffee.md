@@ -4,8 +4,8 @@ title: lolcoffee
 date: 2008-07-14T23:17:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=26
-permalink: /?p=26
+#guid: http://aquamap.net/blog/?p=26
+#permalink: /?p=26
 categories:
   - Uncategorized
 ---

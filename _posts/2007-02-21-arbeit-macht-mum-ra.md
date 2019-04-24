@@ -4,8 +4,8 @@ title: arbeit macht MUM-RA
 date: 2007-02-21T10:49:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=108
-permalink: /?p=108
+#guid: http://aquamap.net/blog/?p=108
+#permalink: /?p=108
 categories:
   - Uncategorized
 ---

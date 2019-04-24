@@ -4,8 +4,8 @@ title: 2 years of no smoking
 date: 2008-02-22T08:35:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=158
-permalink: /?p=158
+#guid: http://aquamap.net/blog/?p=158
+#permalink: /?p=158
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: rss readers?
 date: 2007-01-15T20:34:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=106
-permalink: /?p=106
+#guid: http://aquamap.net/blog/?p=106
+#permalink: /?p=106
 categories:
   - Uncategorized
 ---

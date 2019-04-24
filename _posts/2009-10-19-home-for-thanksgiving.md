@@ -4,8 +4,8 @@ title: home for thanksgiving
 date: 2009-10-19T10:25:02+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=202
-permalink: /?p=202
+#guid: http://aquamap.net/blog/?p=202
+#permalink: /?p=202
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: thanksgiving in IL
 date: 2008-09-20T08:41:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=168
-permalink: /?p=169
+#guid: http://aquamap.net/blog/?p=168
+#permalink: /?p=169
 categories:
   - Uncategorized
 ---

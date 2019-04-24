@@ -4,8 +4,8 @@ title: destroyers and usurpers, curse them!
 date: 2007-06-24T22:26:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=128
-permalink: /?p=128
+#guid: http://aquamap.net/blog/?p=128
+#permalink: /?p=128
 categories:
   - Uncategorized
 ---

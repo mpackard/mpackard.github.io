@@ -4,8 +4,8 @@ title: 'à la tête, au cul, et rien qu&#8217;au cul'
 date: 2007-04-06T13:42:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=114
-permalink: /?p=114
+#guid: http://aquamap.net/blog/?p=114
+#permalink: /?p=114
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: how to make the dock suck less
 date: 2007-12-11T14:15:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=156
-permalink: /?p=156
+#guid: http://aquamap.net/blog/?p=156
+#permalink: /?p=156
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: Muppet Babies bootleg
 date: 2007-12-04T07:22:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=155
-permalink: /?p=155
+#guid: http://aquamap.net/blog/?p=155
+#permalink: /?p=155
 categories:
   - Uncategorized
 ---

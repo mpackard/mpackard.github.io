@@ -4,8 +4,8 @@ title: holy fucking awesome
 date: 2007-04-20T16:04:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=122
-permalink: /?p=122
+#guid: http://aquamap.net/blog/?p=122
+#permalink: /?p=122
 categories:
   - Uncategorized
 ---

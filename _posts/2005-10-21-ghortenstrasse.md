@@ -4,8 +4,8 @@ title: ghortenstrasse
 date: 2005-10-21T00:45:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=63
-permalink: /?p=63
+#guid: http://aquamap.net/blog/?p=63
+#permalink: /?p=63
 categories:
   - Uncategorized
 ---

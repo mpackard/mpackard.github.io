@@ -4,8 +4,8 @@ title: political commentary
 date: 2006-12-05T18:50:00+00:00
 author: mpackard
 layout: post
-guid: http://aquamap.net/blog/?p=99
-permalink: /?p=99
+#guid: http://aquamap.net/blog/?p=99
+#permalink: /?p=99
 categories:
   - Uncategorized
 ---
