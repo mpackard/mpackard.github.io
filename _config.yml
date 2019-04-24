@@ -6,4 +6,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+paginate: 5
 
