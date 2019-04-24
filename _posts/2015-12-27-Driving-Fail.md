@@ -1,6 +1,3 @@
----
-layout: post
----
 
 Managed to drive right through this yesterday. Looks like today will be fun too.
 
