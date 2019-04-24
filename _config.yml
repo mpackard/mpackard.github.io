@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
 name: mrghort
-url: https://mpackard.github.io/blog
-permalink: /blog/:year/:month/:day/:title/
+markdown: kramdown
