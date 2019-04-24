@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 name: mrghort
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-sitemap
   - jekyll-feed
